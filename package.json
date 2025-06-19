@@ -1,0 +1,10 @@
+{
+  "name": "format-json-output",
+  "version": "1.0.1",
+  "description": "CLI tool to format JSON lines in output and pass through non-JSON lines",
+  "bin": {
+    "format-json-output": "./bin/format-json-output.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
