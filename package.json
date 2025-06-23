@@ -1,6 +1,6 @@
 {
   "name": "format-json-output",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "CLI tool to format JSON lines in output and pass through non-JSON lines",
   "bin": {
     "format-json-output": "./bin/format-json-output.js"
